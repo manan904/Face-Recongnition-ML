@@ -19,10 +19,10 @@ conda install -c menpo opencv
 
 #Running Files
 
-1.Run record_faces.py on the command line or a python kernal.The script will open a camera window.Stand in front of the camera until recording of the face is completed./br
-2.The default file where the features are stored is face_01.npy. You can change the file name if you want to store information of many persons./br
-3.Open the face_recognition.py file and edit your name in the dictionary value corresponding to the number in which your face was stored i.e. for face_01,add your name to '0' value in the names dictionary./br
-4.Run the face_recognition.py file!/br
+1.Run record_faces.py on the command line or a python kernal.The script will open a camera window.Stand in front of the camera until recording of the face is completed.<br />
+2.The default file where the features are stored is face_01.npy. You can change the file name if you want to store information of many persons.<br />
+3.Open the face_recognition.py file and edit your name in the dictionary value corresponding to the number in which your face was stored i.e. for face_01,add your name to '0' value in the names dictionary.<br />
+4.Run the face_recognition.py file!<br />
 
 #Credits
 This project is based on the Machine Learning Webinar hosted by Coding Blocks.
